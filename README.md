@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-Game-in-python-3-Tkinter
-Tic-Tac-Toe Game in python 3 Tkinter
+# Codex OS
+Simple Concept OS, that we made in our first year.
